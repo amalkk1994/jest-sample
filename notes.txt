@@ -1,0 +1,15 @@
+https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript/
+
+1. unit testing - for a single unit of code
+2. integration testing - integration between the modules, makes sure your app works
+3. functional testing - user's point of view
+
+-----
+npm init
+npm i jest --save-dev
+npm i jest-cli -g
+jest - to run the test
+
+If you installed the Visual Studio Code extension, it will run tests automatically once you save a file. 
+
+jest --coverage

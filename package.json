@@ -1,0 +1,14 @@
+{
+  "name": "js-unit-testing",
+  "version": "1.0.0",
+  "description": "to test jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amalkk",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
